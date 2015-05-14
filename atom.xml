@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Hexo]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-05-14T22:26:09.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[Julian Viereck]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Mihai Șucan, my former colleagues, the Stephen Hawking of Mozilla, roughly my age, died.]]></title>
+    <link href="http://yoursite.com/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/"/>
+    <id>http://yoursite.com/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/</id>
+    <published>2015-05-14T22:00:28.000Z</published>
+    <updated>2015-05-14T22:26:09.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>Kevin: “Ahh, and there is one more thing.”</p>
+</blockquote>
+<p>It was towards the later afternoon and I was calling into our daily <a href="https://wiki.mozilla.org/Labs/Bespin" target="_blank" rel="external">Bespin</a> team update call, that we used to do every evening.</p>
+<blockquote>
+<p>Kevin: “There is a potential intern for our project. The Mozilla Labs people want interns on their sides and he cannot go to California because he has something with his skin and cannot stand the sun there. So, they reached out to us to see if he could intern on the Bespin project instead. What do you think about it?”<br>Joe: “Well, is there any downside in not taking him?”<br>Kevin: “That’s a good point, I guess no.”</p>
+</blockquote>
+<p>And that is (at least how I can recall the conversation from the back of my head) how the Bespin team grow from four to five developers. I guess no one could only vague guess what this simple “let’s take him” decision would lead to back then. It was not only an intern that would join our team, but pretty soon he would become a full time Mozilla employ and famous within Mozilla. This person turned out to be Mihai Șucan.</p>
+<p>But actually, Mihai never turned out to work on Bespin code - back then in 2010, Firefox 4 was developed and because the Firefox team was seeking urgently for man power, the Bespin team was more or less moved over to work on a new  Firefox feature. Firefox 4 came with many new features include for the first time build in developer tools (until then Firebug was the only way to debug Firefox). Rob and David had started working on a few prototypes and to help them move faster and make sure the developer tools would ship, Kevin, Joe (later also Patrick), me and Mihai were assigned on the new Firefox Devtools Team.</p>
+<p>The start of the project was, well, rough for us. But we were like a small SWAT team of developers that tried to get Firefox Devtools shipped - no matter what. We were all outstanding - but - Mihai just - well - powned us all. He learned quickly, he finished work so fast, his voice was a little bit strange, he made jokes (though they were not always funny, but still, looking back, they were humours in their own sense), he took critic not personal but was thankful for it and got back to work again and overall he was also pragmatic. I remember asking me “is that really only one person that is working there somewhere in eastern Europe or is he sharing secretly work with other people” - he was just working way too fast and at a quality that was outstanding and not imagineable to be done by a single person.</p>
+<p>So far I had the pleasure to work with a few giants, people that move at light speed, that cut through problems like butter and still help you and are the most lovely people you can imagine at the same time. Mihai was one of them.</p>
+<p>I don’t know Mihai’s birthday, but I guess we were born maybe two, maximum three years apart. I am 25 years now and standing in the middle of my life. Not so Mihai.</p>
+<p>On 23 April 2015, <a href="http://mihai.sucan.ro/mihai/blog/thanks" target="_blank" rel="external">Mihai Șucan</a> died of cancer.</p>
+<p>When I was working with him back then in 2010, there were no pictures of Mihai on the internet. His voice was strange and I knew something was about his skin (that was why he got assigned to our team at all, recal!). Later I saw him for the first time on a picture taken at the Firefox Devtool Workweek in London. He was sitting in a wheel chair, which was later also visible on his avatar image.</p>
+<p>Mihai was suffering from cancer. His ability to use the keyboard was limited. How he managed to do so much work at such at an outstanding quality and pace - I just cannot figure out. Given his work output, I would never had guessed he had such physical problems or limitations. But it seems that what looks like limitations to me where not so for Mihai. He just kept going, he fixed 1919 bugs (if you wonder if this is a lot - yes, it is HUGE), mostly in the Developer Console shipping with Firefox. When I think about him now, he feels like the Stephen Hakings of Mozilla to me - also bound to a wheel chair, but not giving up, in contrast proving life over and over again that he would outlive every estimated remaining time he had left on earth. People gave him a few months, he stayed around for years. Then it were weeks and he still turned them into months. He knew his end was coming and blogged about his disease in his <a href="http://mihai.sucan.ro/mihai/blog/touched" target="_blank" rel="external">last blog post</a>.</p>
+<p>The disease Mihai was suffering from is called <a href="https://en.wikipedia.org/wiki/Epidermolysis_bullosa" target="_blank" rel="external">Epidermolysis Bullosa</a> - it is seldom and therefore not a main focus for pharmacy companies, leading to suffering of many people that live with this kind of cancer every day. Quoting from <a href="http://incompleteness.me/blog/2015/02/09/console-dot-mihai/" target="_blank" rel="external">Joe’s blog</a> post about Mihai’s death:</p>
+<blockquote>
+<p>E.B. is a brutal skin condition which causes chronic blistering, and makes everyday objects dangerous. Those with it are sometimes called butterfly children because of their brittle skin. In Mihai’s case it has left him in a wheelchair, and having to very gently punch the keyboard to get anything done.</p>
+<p>E.B. makes you very vulnerable to skin cancer from the continued scarring from the blisters. So everyday objects that wouldn’t pose a risk to those with normal skin become sharp and dangerous to people with E.B. Needless to say - anyone with E.B. has a huge mountain to climb every single day.</p>
+</blockquote>
+<p>Mihai and I never met in person. But still after we stopped being colleagues we stayed in touch, had a few small chats on IRC or on Twitter and though it feels strange to say, he felt like a good friend to me, that I never got to meet - and never will.</p>
+<p>The world lost a great person, a great developer, a great Mozillian and a great fighter.</p>
+<p>And I have to say goodbye to a friend :’(</p>
+<p>RIP Mihai.</p>
+<p><img src="cheers.jpg" alt="RIP Mihai Cheers"></p>
+<p>PS: To honor Mihai’s outstanding work on the Firefox Developer Console an easter egg was added - instead of using the normal <code>console.log()</code> commands go and try <code>console.mihai()</code>.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p>Kevin: “Ahh, and there is one more thing.”</p>
+</blockquote>
+<p>It was towards the later afternoon and I was calling into ou]]>
+    </summary>
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+      <category term="Mozilla" scheme="http://yoursite.com/tags/Mozilla/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Mihai Șucan, my former coworker, the Stephen Hawking of Mozilla, roughly my age, died.]]></title>
+    <link href="http://yoursite.com/2015/05/14/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/"/>
+    <id>http://yoursite.com/2015/05/14/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/</id>
+    <published>2015-05-14T21:27:28.000Z</published>
+    <updated>2015-05-14T22:13:03.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>Kevin: “Ahh, and there is one more thing.”</p>
+</blockquote>
+<p>It was towards the later afternoon and I was calling into our daily Bespin team update call, that our team used to do every evening.</p>
+<blockquote>
+<p>Kevin: “There is a potential intern for our project. The Mozilla Labs people want interns on their sides and he cannot go to California because he has something with his skin and cannot stand the sun there. So, they reached out to me to see if he could intern on the Bespin project instead. What do you think about it?”<br>Joe: “Well, is there any downside in not taking him?”<br>Kevin: “That’s a good point, I guess no.”</p>
+</blockquote>
+<p>And that’s (at least how I can recall the conversation from the back of my head) how our Bespin team grow from four to five developers. I guess no one could only vague guess what this simple “let’s take him” decision would lead to at that point. It was not only an intern that would join our team, but pretty soon he would become a full time Mozilla employ and famous within Mozilla. This person turned out to be Mihai.</p>
+<p>But actually, Mihai never turned out to work on Bespin code - back then in 2010 Firefox 4 was developed and because the Firefox team was seeking urgently for man power, the Bespin team was more or less moved over to work on a new  Firefox feature. Firefox 4 came with many new features include for the first time build in developer tools (until then Firebug was the only way to debug Firefox). Rob and David had started working on a few prototypes and to help them move faster and make sure the developer tools would ship, Kevin, Joe (later also Patrick), me and Mihai were assigned on the new Firefox Devtools Team.</p>
+<p>The start of the project was, well, rough for us. But we were like a small SWAT team of developers that tried to get Firefox Devtools shipped - no matter what. We were all outstanding - but - Mihai just - well - powned us all. He learned quickly, he finished work so fast, his voice was a little bit strange, he made jokes (though they were not always funny, but still, looking back, they were humours in their own sense), he took critic not personal but was thankful for it and got back to work again and overall he was also pragmatic. I remember asking me “is that really only one person that is working there somewhere in eastern Europe or is he sharing secretly work with other people” - he was just working way too fast and at a quality that was outstanding and not imagineable to be done by a single person.</p>
+<p>So far I had the pleasure to work with a few giants, people that move at light speed, that cut through problems like butter and still help you and are the most lovely people at the same time. Mihai was one of them.</p>
+<p>I don’t know the Mihai’s birthday but I guess we were born maybe two, maximum three years apart. I am 25 years now and standing in the middle of my life. Not so Mihai.</p>
+<p>On 23 April 2015, <a href="http://mihai.sucan.ro/mihai/blog/thanks" target="_blank" rel="external">Mihai Șucan</a> died of cancer.</p>
+<p>When I was working with him back then in 2010, there were no pictures of Mihai on the internet. His voice was strange and I knew something was about his skin (that was why he got assigned to our team at all, recal!). Later I saw him for the first time on a picture taken at the Firefox Devtool Workweek in London. He was sitting in a wheel chair, which was later also visible on his avatar image.</p>
+<p>Mihai was suffering from cancer. His ability to use the keyboard was limited. How he managed to do much work at such at an outstanding quality and pace - I just cannot figure out. Though all his suffering, I would never had guessed he had such physical problems or limitations. But it seems that what looks like limitations to me where not so for Mihai. He just kept going, he fixed 1919 bugs, mostly in the Developer Console shipping with Firefox. When I think now about him, he feel like the Stephen Hakings of Mozilla to me - also bound to a wheel chair, but not giving up, in contrast proving life over and over again that he would outlive every estimated remaining time he had left on earth. People gave him a few months, he stayed around for years. Then it were weeks and he still turned them into months. He knew his end was coming and blogged about his desease in his <a href="http://mihai.sucan.ro/mihai/blog/touched" target="_blank" rel="external">last blog post</a>.</p>
+<p>The deceases Mihai was suffering from is called <a href="https://en.wikipedia.org/wiki/Epidermolysis_bullosa" target="_blank" rel="external">Epidermolysis Bullosa</a> - it is seldom and therefore not a main focus for pharmacy companies, leading to suffering of many people that live with this kind of cancer every day. Quoting from <a href="http://incompleteness.me/blog/2015/02/09/console-dot-mihai/" target="_blank" rel="external">Joe’s blog</a> post about Mihai’s death:</p>
+<blockquote>
+<p>E.B. is a brutal skin condition which causes chronic blistering, and makes everyday objects dangerous. Those with it are sometimes called butterfly children because of their brittle skin. In Mihai’s case it has left him in a wheelchair, and having to very gently punch the keyboard to get anything done.</p>
+<p>E.B. makes you very vulnerable to skin cancer from the continued scarring from the blisters. So everyday objects that wouldn’t pose a risk to those with normal skin become sharp and dangerous to people with E.B. Needless to say - anyone with E.B. has a huge mountain to climb every single day.</p>
+</blockquote>
+<p>Mihai and I never met in person. But still after we stopped being colloquies we stayed in touch, had a few small chats on IRC or on Twitter and though it feels strange to say, he felt like a good friend to me, that I never get to meet.</p>
+<p>The world lost a great person, a great developer, a great Mozillian and a great fighter.</p>
+<p>And I have to say goodbye to a friend :’(</p>
+<p>RIP Mihai.</p>
+<p><img src="2015-05-14-Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died.jpg" alt="RIP Mihai Cheers"></p>
+<p>PS: To honor Mihai’s outstanding work on the Firefox Developer Console an easter egg was added - instead of using the normal <code>console.log()</code> commands go and try <code>console.mihai()</code>.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p>Kevin: “Ahh, and there is one more thing.”</p>
+</blockquote>
+<p>It was towards the later afternoon and I was calling into ou]]>
+    </summary>
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+      <category term="Mozilla" scheme="http://yoursite.com/tags/Mozilla/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/04/24/hello-world/"/>
+    <id>http://yoursite.com/2015/04/24/hello-world/</id>
+    <published>2015-04-23T22:11:54.000Z</published>
+    <updated>2015-04-23T22:11:54.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
