@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-05-14T22:26:09.000Z</updated>
+  <updated>2015-05-14T22:42:11.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://yoursite.com/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/"/>
     <id>http://yoursite.com/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/</id>
     <published>2015-05-14T22:00:28.000Z</published>
-    <updated>2015-05-14T22:26:09.000Z</updated>
+    <updated>2015-05-14T22:42:11.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>Kevin: “Ahh, and there is one more thing.”</p>
 </blockquote>
@@ -44,7 +44,7 @@
 <p>The world lost a great person, a great developer, a great Mozillian and a great fighter.</p>
 <p>And I have to say goodbye to a friend :’(</p>
 <p>RIP Mihai.</p>
-<p><img src="cheers.jpg" alt="RIP Mihai Cheers"></p>
+<p><img src="/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/cheers.jpg" alt="RIP Mihai Cheers"></p>
 <p>PS: To honor Mihai’s outstanding work on the Firefox Developer Console an easter egg was added - instead of using the normal <code>console.log()</code> commands go and try <code>console.mihai()</code>.</p>
 ]]></content>
     <summary type="html">
