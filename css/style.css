@@ -26,6 +26,10 @@ body {
     font-size: 13px;
   }
 }
+hr {
+  margin-top: 40px;
+  margin-left: -40px;
+}
 h1,
 h2,
 h3,
