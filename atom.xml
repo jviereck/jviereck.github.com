@@ -4,9 +4,9 @@
   <title><![CDATA[Julian Viereck]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com//"/>
-  <updated>2015-06-06T06:07:51.000Z</updated>
-  <id>http://yoursite.com//</id>
+  <link href="http://www.julianviereck.de//"/>
+  <updated>2015-06-07T01:32:02.000Z</updated>
+  <id>http://www.julianviereck.de//</id>
   
   <author>
     <name><![CDATA[Julian Viereck]]></name>
@@ -17,10 +17,10 @@
   
   <entry>
     <title><![CDATA[Tell me how much help you need and I tell you how healthy your environment is]]></title>
-    <link href="http://yoursite.com/2015/06/05/Tell-me-how-much-help-you-need-and-I-tell-you-how-healthy-your-environment-is/"/>
-    <id>http://yoursite.com/2015/06/05/Tell-me-how-much-help-you-need-and-I-tell-you-how-healthy-your-environment-is/</id>
+    <link href="http://www.julianviereck.de/2015/06/05/Tell-me-how-much-help-you-need-and-I-tell-you-how-healthy-your-environment-is/"/>
+    <id>http://www.julianviereck.de/2015/06/05/Tell-me-how-much-help-you-need-and-I-tell-you-how-healthy-your-environment-is/</id>
     <published>2015-06-06T06:07:17.000Z</published>
-    <updated>2015-06-06T06:07:51.000Z</updated>
+    <updated>2015-06-07T01:32:02.000Z</updated>
     <content type="html"><![CDATA[<p>“Oh no, it is raining” was what I was saying when looking outside of my winder after getting out of bed. As I am getting from A to B in Zurich using my bike having bad weather turns out to be even worse as bad weather is already by itself.</p>
 <p>Especially on this day, it was raining really a lot so I was wondering what I could do. Zurich (as Switzerland in general) has very good public transport, so maybe instead of using my bike, why not use public transport on this rainy day? Unfortunate it turned out, using public transport was not an option for this day: There was a meeting at my university in the morning, then I planed to have lunch at Google Zurich and right afterwards another two meetings at the university. None of the meeting I could move or cancel. The commute time from university to Google office is signification longer when using public transport then when using my bike, which for this packed day would mean I couldn’t make it between all the meeting to get to Google, have lunch there, and then make it back to university for the next meetings in time.</p>
 <h2 id="Your_speed_in_an_environment">Your speed in an environment</h2><p>So, in a sense, I had to make a trade off: Either I use a “nicer” solution in terms of “fighting the rain” and use public transport, loose the ability to move quickly (in other words, loose speed) OR to just face the heavy rain, be able to move faster with my bike and thereby make it to lunch at Google. I was looking forward to meet my Google lunch partner for nearly two week and so I decided to face the heavy rain.</p>
@@ -43,12 +43,14 @@
     <![CDATA[<p>“Oh no, it is raining” was what I was saying when looking outside of my winder after getting out of bed. As I am getting from A to B in Z]]>
     </summary>
     
+      <category term="speed" scheme="http://www.julianviereck.de/tags/speed/"/>
+    
   </entry>
   
   <entry>
     <title><![CDATA[Mihai Șucan, my former colleagues, the Stephen Hawking of Mozilla, roughly my age, died.]]></title>
-    <link href="http://yoursite.com/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/"/>
-    <id>http://yoursite.com/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/</id>
+    <link href="http://www.julianviereck.de/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/"/>
+    <id>http://www.julianviereck.de/2015/05/15/Mihai-Sucan-my-former-coworker-the-Stephen-Hawking-of-Mozilla-roughly-my-age-died/</id>
     <published>2015-05-15T07:00:28.000Z</published>
     <updated>2015-05-14T22:42:11.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -85,9 +87,9 @@
 <p>It was towards the later afternoon and I was calling into ou]]>
     </summary>
     
-      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+      <category term="Life" scheme="http://www.julianviereck.de/tags/Life/"/>
     
-      <category term="Mozilla" scheme="http://yoursite.com/tags/Mozilla/"/>
+      <category term="Mozilla" scheme="http://www.julianviereck.de/tags/Mozilla/"/>
     
   </entry>
   
