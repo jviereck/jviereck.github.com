@@ -265,8 +265,16 @@ article header time {
   color: #999;
   font: 0.9em "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   margin-bottom: 5px;
-  display: block;
+  display: inline;
   line-height: 1;
+}
+article header .tags {
+  display: inline;
+}
+article header .tags:before {
+  content: '- #';
+  top: 3px;
+  left: 2px;
 }
 article header .title {
   font-weight: normal;
@@ -366,9 +374,9 @@ article .entry dl dl {
 article .entry h1,
 article .entry h2 {
   font-weight: normal;
-  border-bottom: 1px solid #ddd;
   padding-bottom: 10px;
-  margin-top: 20px;
+  margin-top: 30px;
+  margin-bottom: -15px;
 }
 article .entry h3,
 article .entry h4,
@@ -470,11 +478,6 @@ article footer .categories:before {
   content: '\f07b';
   top: 2px;
   left: 1px;
-}
-article footer .tags:before {
-  content: '\f02b';
-  top: 3px;
-  left: 2px;
 }
 article footer .addthis {
   margin-top: 15px;
