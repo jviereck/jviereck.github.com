@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.julianviereck.de//"/>
-  <updated>2015-06-07T01:32:02.000Z</updated>
+  <updated>2015-06-07T14:47:37.000Z</updated>
   <id>http://www.julianviereck.de//</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="http://www.julianviereck.de/2015/06/05/Tell-me-how-much-help-you-need-and-I-tell-you-how-healthy-your-environment-is/"/>
     <id>http://www.julianviereck.de/2015/06/05/Tell-me-how-much-help-you-need-and-I-tell-you-how-healthy-your-environment-is/</id>
     <published>2015-06-06T06:07:17.000Z</published>
-    <updated>2015-06-07T01:32:02.000Z</updated>
-    <content type="html"><![CDATA[<p>“Oh no, it is raining” was what I was saying when looking outside of my winder after getting out of bed. As I am getting from A to B in Zurich using my bike having bad weather turns out to be even worse as bad weather is already by itself.</p>
-<p>Especially on this day, it was raining really a lot so I was wondering what I could do. Zurich (as Switzerland in general) has very good public transport, so maybe instead of using my bike, why not use public transport on this rainy day? Unfortunate it turned out, using public transport was not an option for this day: There was a meeting at my university in the morning, then I planed to have lunch at Google Zurich and right afterwards another two meetings at the university. None of the meeting I could move or cancel. The commute time from university to Google office is signification longer when using public transport then when using my bike, which for this packed day would mean I couldn’t make it between all the meeting to get to Google, have lunch there, and then make it back to university for the next meetings in time.</p>
+    <updated>2015-06-07T14:47:37.000Z</updated>
+    <content type="html"><![CDATA[<p>“Oh no, it is raining” was what I was saying when looking outside of my window after getting out of bed. As I am getting from A to B in Zurich using my bike having bad weather turns out to be even worse as bad weather is already by itself.</p>
+<p>Especially on this day, it was raining really a lot so I was wondering what I could do. Zurich (as Switzerland in general) has very good public transport, so maybe instead of using my bike, why not use public transport on this rainy day? Unfortunately it turned out, using public transport was not an option for this day: There was a meeting at my university in the morning, then I planed to have lunch at Google Zurich and right afterwards another two meetings at the university. None of the meeting I could move or cancel. The commute time from university to Google office is significantly longer when using public transport then when using my bike, which for this packed day would mean I couldn’t make it between all the meeting to get to Google, have lunch there, and then make it back to university for the next meetings in time.</p>
 <h2 id="Your_speed_in_an_environment">Your speed in an environment</h2><p>So, in a sense, I had to make a trade off: Either I use a “nicer” solution in terms of “fighting the rain” and use public transport, loose the ability to move quickly (in other words, loose speed) OR to just face the heavy rain, be able to move faster with my bike and thereby make it to lunch at Google. I was looking forward to meet my Google lunch partner for nearly two week and so I decided to face the heavy rain.</p>
-<p>What are your options when you want to cycle in heavy rain? Right, you need to take on a lot of rain gear, that avoids you from getting wet when cycling through the rain. And that’s what I did in the end: Open up my shelf, take out my full bike rain equipment, take it on (then walking like an astronaut), managed to not get wet this way while riding my bike through the rain and managed to be on time for all meetings and enjoyed amazing lunch communication at Google.</p>
+<p>What are your options when you want to cycle in heavy rain? Right, you need to take on a lot of rain gear, that avoids you from getting wet when cycling through the rain. And that’s what I did in the end: Open up my shelf, take out my full bike rain equipment, put it on (then walking like an astronaut), managed to not get wet this way while riding my bike through the rain and managed to be on time for all meetings and enjoyed amazing lunch communication at Google.</p>
 <p>What I found most interesting about this is the following discovery: Your speed (that is, how fast you can move within a given environment) is not only dependent on the environment itself, BUT also on the help, support, tools, gears, … you apply to the environment. This allows you to keep up your “normal speed” - though the environment becomes suboptimal - by investing more into your help materials. Written down in a small formula you get this:</p>
 <blockquote>
 <p>Your Speed = Your Environment &amp; Your Help</p>
@@ -36,11 +36,13 @@
 <p>Is there a way you can change your environment instead?</p>
 </blockquote>
 <h2 id="Just_accept_the_amount_of_help_you_need?">Just accept the amount of help you need?</h2><p>In a sense, if you loose speed as your application grows, maybe you should not take that as a “yeah, that’s what happens if your app gets bigger” attitude but say instead: As your app grows you must make sure you have the right environment setup to solve the problem. There is a blurry line here between where does changing the environment end and where does the help you provide start. However, what I realised over the last few weeks is, that often when you start using a lot of “help” to solve a problem, it is actually a strong indication that something might be wrong with the environment you try to solve a problem in and instead of throwing more and more support, tools, … at the problem, it might make sense to look at the environment and “fix” the problem there instead.</p>
-<p>Noticing that there is an issue with the environment at first place is often hard and not obvious. But looking at the more concrete fact of how much help you need to get a job done is what I find much easier. From this concrete knowledge it seems possible to derive then something about the more implicit healthiness of the environment you work with in.</p>
+<p>Noticing that there is an issue with the environment at first place is often hard and not obvious. But looking at the more concrete fact of how much help you need to get a job done is what I find much easier. From this concrete knowledge it seems possible to derive than something about the more implicit healthiness of the environment you work with in.</p>
 <p>Now, for sure, you can not always change your environment - in the case of the bad weather, there is little you can do ^^ But over the last few weeks I appliedBut if I see how much tooling there is required to build performant web apps, I started to wonder if there is a way to fix the environment instead.</p>
+<hr>
+<p>$ #date(07 June 2015)<br>[Iteration\ Fixed a lot of small typos - thanks a lot to a lovely, wonderful person in Berlin]</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>“Oh no, it is raining” was what I was saying when looking outside of my winder after getting out of bed. As I am getting from A to B in Z]]>
+    <![CDATA[<p>“Oh no, it is raining” was what I was saying when looking outside of my window after getting out of bed. As I am getting from A to B in Z]]>
     </summary>
     
       <category term="speed" scheme="http://www.julianviereck.de/tags/speed/"/>
