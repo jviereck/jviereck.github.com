@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.julianviereck.de//"/>
-  <updated>2017-09-24T10:31:11.000Z</updated>
+  <updated>2017-10-23T00:35:13.000Z</updated>
   <id>http://www.julianviereck.de//</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Living with a plain smartphone keyboard]]></title>
+    <link href="http://www.julianviereck.de/2017/10/22/Living-with-a-plain-smartphone-keyboard/"/>
+    <id>http://www.julianviereck.de/2017/10/22/Living-with-a-plain-smartphone-keyboard/</id>
+    <published>2017-10-23T00:31:20.000Z</published>
+    <updated>2017-10-23T00:35:13.000Z</updated>
+    <content type="html"><![CDATA[<p>My smartphone is an essential part of the way I communicate with colleagues, friends and family. In my case, that means writing quite a bit on a small screen using only two thumbs everyday. By default, my Android phone comes with a keyboard autocompletion (which I will use synonymous with auto-correction). AFAIKT, the product decision to ship with this feature is to make writing on the small device more enjoyable. Companies go to a big extend on making this feature better for the user. Google has a very interesting <a href="https://research.googleblog.com/2017/05/the-machine-intelligence-behind-gboard.html" target="_blank" rel="external">blog post</a> + <a href="ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf" target="_blank" rel="external">research paper</a> on this topic.</p>
+<p>Here is the thing: Around two weeks ago I turned the autocompletion on my phone’s keyboard off. Do I miss it? No. Do I write slower? A bit. Do I enjoy the “new way of writing”? Yes. Actually, I am drafting this blog post on my phone without auto correction right now.</p>
+<p>Initially, I turned autocompletion off as I was upset with performed corrections. When chatting, I switch between languages and use also local dialects. The autocompletion keyboards I tried were not able to satisfy my demands. The feeling of virtually shouting at your keyboard like “NOOO, THATS NOT WHAT I WANT. I corrected this already twice and you still corrected it wrongly…” was a daily habit. In addition, I noticed how autocompletion learned many common patterns I repeatedly typed, likes names of friends, locations, urls. Just knowing that my keyboard knows very well what I would type next felt a bit creepy.</p>
+<p>Therefore, I started an experiment: I turned the autocompletion on my phone’s keybaord off.</p>
+<p>How does that feel like when you switch to typing without autocompletion? At the beginning super weird. As it turned out, I was so used to being able to just hit my thumbs without much thinking somewhere close to the correct key on my keyboard. It just worked (most of the times). Once I turned the autocompletion off, I was fascinated to see how “sloppy by default” I was typing on the keyboard. Now, two weeks into the experiment, I am starting to be able to write blind on the keyboard without autocompletion again. Also, the speed is catching up to the one of the autocompleted one.</p>
+<p>What I noticed is that I am paying now much more attention to my grammar and style while writing on the keyboard. I could write sloppy, ignore it, when I type wrong letters here and there. However, I like the idea of trying to preserve (local) languages. Therefore, I try to write grammatically correct text. Yes, this means pressing the shift key after each punctuation to get an upper letter after finishing the previous sentence.. Yes, this means I press the delete key much more often to correct words. It also means I need to think more about the correct spelling of words as. In fact, I found myself looking up word spellings more often lately.</p>
+<p>For me, the wins from turning off autocompletion on my phone’s keyboard outweigh the downsides. That I have to stop “being sloppy” was an unexpected outcome of the experiment.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>My smartphone is an essential part of the way I communicate with colleagues, friends and family. In my case, that means writing quite a b]]>
+    </summary>
+    
+      <category term="Machine Learning, Smartphone, User Experience, Experiment, Input Method" scheme="http://www.julianviereck.de/tags/Machine-Learning-Smartphone-User-Experience-Experiment-Input-Method/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Germans: You should vote today.]]></title>
