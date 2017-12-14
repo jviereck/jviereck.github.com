@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.julianviereck.de//"/>
-  <updated>2017-10-24T05:22:33.000Z</updated>
+  <updated>2017-10-24T05:23:15.000Z</updated>
   <id>http://www.julianviereck.de//</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.julianviereck.de/2017/10/24/Leaving-and-staying-at-home-TheZurichYears/"/>
     <id>http://www.julianviereck.de/2017/10/24/Leaving-and-staying-at-home-TheZurichYears/</id>
     <published>2017-10-24T05:15:28.000Z</published>
-    <updated>2017-10-24T05:22:33.000Z</updated>
+    <updated>2017-10-24T05:23:15.000Z</updated>
     <content type="html"><![CDATA[<img src="/2017/10/24/Leaving-and-staying-at-home-TheZurichYears/apero.jpg" alt="Apero on the Polyterasse" title="Apero on the Polyterasse">
 <p>How do you know you are approaching a Swiss airport? When the corn field holds an advertisement for a swiss knife. The touchdown was as usual, but soon the feeling of arrival changed. Looking out once more of the window, a series of standing airplanes was going by as we taxied to our parking position. Each of the plains holding up the red, Swiss cross. “Home” was all I could think of and tears started to form in my eyes.</p>
 <p>Roughly a year ago I felt upset by Zurich. Upset by the university and other things. Taking a distance, I moved to a different place. I had come back to Zurich before for short visits. The feeling had become better. But this time it was much stronger. Much more positive. The bad aspects washed away.</p>
@@ -192,6 +192,56 @@
       <category term="Life" scheme="http://www.julianviereck.de/tags/Life/"/>
     
       <category term="Mozilla" scheme="http://www.julianviereck.de/tags/Mozilla/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[First De:hacking Meetup in Berlin]]></title>
+    <link href="http://www.julianviereck.de/2013/05/07/First-De-hacking-Meetup-in-Berlin/"/>
+    <id>http://www.julianviereck.de/2013/05/07/First-De-hacking-Meetup-in-Berlin/</id>
+    <published>2013-05-07T10:04:45.000Z</published>
+    <updated>2017-12-14T11:48:52.906Z</updated>
+    <content type="html"><![CDATA[<img src="/2013/05/07/First-De-hacking-Meetup-in-Berlin/mozilla_office_berlin.jpg" alt="Panorama picture in the Mozilla Berlin Office. Attendees sit on chairs discussing ideas." title="Panorama picture in the Mozilla Berlin Office. Attendees sit on chairs discussing ideas.">
+<p>[EDIT(2017-12Dec-14Thu, <a href="https://www.twitter.com/jviereck" target="_blank" rel="external">@jviereck</a>): <a href="https://www.flickr.com/photos/jviereck/sets/72157633351776766/" target="_blank" rel="external">Added title picture to blog post</a>.]<br>[EDIT(2017-12Dec-14Thu, <a href="https://www.twitter.com/jviereck" target="_blank" rel="external">@jviereck</a>): <a href="https://www.flickr.com/photos/jviereck/sets/72157633351776766/" target="_blank" rel="external">More pictures from the event are here</a>.]</p>
+<p>On the 19/20 April 2013 some developers of the German speaking Mozillian group (called de:hacking) met in Berlin. As this was the first event of the de:hacking group and many of the attendees haven’t met before, the event was designed to be social but at the same time offer a chance to do what developers do - write code. The event was, given the response gathered so far from all the participents, a great success. Let’s dive in a little bit more.</p>
+<h1 id="Once_upone_a_time…">Once upone a time…</h1><p>Before I get started on the acutal event, I want to flashback for a second. It was January this year when <a href="http://brian.kingsonline.net/talk/2013/01/german-community-reboot/" target="_blank" rel="external">some Mozillians meet in Berlin</a> to dicuss the structure of the German speaking Mozillian community. At that point of time, there were good structures in the community for translating and supporting Mozilla products in German langauge, but other areas were not existing in the community.</p>
+<p>During a brainstorming session, we figured to create some new strucutres like for Mozilla’s WebMaker, a group about evengalism to support the work done at MDN and to support people that represent Mozilla on conferences and many more. A new group for developers, that we called “de:hacking”, was crafted as well.</p>
+<p>The lead of the “de:hacking” community section is <a href="https://twitter.com/ttaubert" target="_blank" rel="external">Tim Taubert</a> and I’m supporting him. As you can get money for cool ideas from the Mozilla Reps program, I proposed to do a small meetup for the de:hacing group. People liked this idea and so Tim &amp; I set out (with help of many others) to get the event going. And this is what we ended up with.<br>Warmup - Dinner on Friday evening</p>
+<p>What’s a very good way to socialize? Right__: Go for dinner together. To improve this even more, the meeting attendees, that have been around on Friday evening already, did a small walk from the hotel to the restaurant and got to know each other on the way. The food at the restaurant was amazing and while Tim and I dropped off earlier that evening to have enough power left to get the rest of the event managed, some stories are told that the last people got out of the restaurant at rouhgly 2am in the morning. Remarkible, as the next day started early…</p>
+<img src="/2013/05/07/First-De-hacking-Meetup-in-Berlin/dinner.jpg" alt="Dinner on friday evening." title="Dinner on friday evening.">
+<h2 id="Breakfast,_Talks_-_Saturday_morning_&amp;_afternoon">Breakfast, Talks - Saturday morning &amp; afternoon</h2><p>The next day started with a good breakfast in the Mozilla Office Berlin - at 8:30 am in the morning. To kick the event off, I gave a small introduction presentation to give a rough idea what the event might look like, why we are here and what are the goals for the events (yes, there is nothing at Mozilla without goals - especially if you request a budget for something ;) ).</p>
+<p>It turned out that the meetup attendees work on a different ends of the Mozilla Project. To share this diverse knowledge, many of the attendees gave short 10-20 minute talks (you find notes from the talks <a href="https://web.archive.org/web/20140912232754/https://etherpad.mozilla.org/dehacking-0413-notes" target="_blank" rel="external">here</a>). The atmosphere was very relaxed, people sitting on working chairs and rolling around, asking questions during the presentation and diving into deep technical discussions. Here is the list of presentations:</p>
+<ul>
+<li><strong>Nils Maier</strong>: Addons</li>
+<li><strong>Georg Fritzsche</strong>: Plugins</li>
+<li><strong>Frederik Braun</strong>: security</li>
+<li><strong>Andre Fiedler</strong>: Firefox OS Apps</li>
+<li><strong>Andreas Wagner</strong>: Firefox Marketplace</li>
+<li><strong>Christiane Ruetten</strong>: Firefox OS__: Market Reviews und Malware Protection</li>
+<li><strong>Florian Scholz</strong>: MDN, Kuma, WebPlatform</li>
+<li><strong>Tim Taubert</strong>: Firefox Development</li>
+<li><strong>Julian Viereck</strong>: PDF.JS</li>
+<li><strong>Tom Schuster</strong>: Spidermonkey</li>
+<li><strong>Till Schneidereit</strong>: Mozilla Research Projects Mix</li>
+</ul>
+<img src="/2013/05/07/First-De-hacking-Meetup-in-Berlin/chairs.jpg" alt="Attendees sitting on wheel chairs enjoying the talks." title="Attendees sitting on wheel chairs enjoying the talks.">
+<p>At the beginning we estimated to do half of the talks in the morning and the other half in the afternoon. But given that the talk were cool, there was still food left from breakfast to eat a small bit here and then and we took some breaks in between the talk, we enede up to just let time flow. There was no formal introduction of the next speaker - people just connected their laptops to the beamer and figured out to get started on their own. It was a really relaxed atmosphere. We took of for lunch around 2pm and finshed the presentation session with the closing talk by Till around 4pm.</p>
+<img src="/2013/05/07/First-De-hacking-Meetup-in-Berlin/lunch.jpg" alt="Attendees having good times during lunch." title="Attendees having good times during lunch.">
+<p>After the talks I did a short brainstorming discussion on how to encurrage more people to become part of the de:hacking group. It turned out this is a very complicated thing todo. To contribute code, there is a basic set of skills required (mostly in the area of programming). Therefore a way to get more people interested into hacking on Mozilla products might be to go to/organize meetups, give talks about a project you’re working on and give away swag to get a conversation going. Let’s see how this will work out.</p>
+<h1 id="Hacking,_Closing_up_-_Saturday_evening">Hacking, Closing up - Saturday evening</h1><img src="/2013/05/07/First-De-hacking-Meetup-in-Berlin/hands_on_session.jpg" alt="Attendees studying code together." title="Attendees studying code together.">
+<p>Now that the brains were filled with new ideas, the crowed set out over the entire Mozilla Berlin Office space and started hacking. Ice cream distributed under the participents made the excitement for hacking go even up further. Some worked on their own projects, some looked over the shoulders of what others were doing and gained insight, some grouped up and looked over some existing codebase and tried to figure out what it was doing. We all had fun, eat pizza on the way and this continued until it was roughly 0:30pm in the morning.</p>
+<img src="/2013/05/07/First-De-hacking-Meetup-in-Berlin/pizza.jpg" alt="Attendees grabbing pizza for dinner." title="Attendees grabbing pizza for dinner.">
+<p>But going straight to bed felt wrong, given this wonderful day - and there was still some money from the event budget left… So we went for drinks ;). No, we didn’t got drunk that evening, but it was still short before 3am on Sunday morning when we left the bar again and went back to the hotel.</p>
+<p>This was the end of the event. The people staying at the hotel had breakfast together (Tim and I were too tired to be there in time - sorry folks!). Everyone had a save travel back home again.</p>
+<h2 id="Comments_&amp;_Thanks">Comments &amp; Thanks</h2><p>The feedback we got from the attendees was all positive and there is motivation to do a similar event again. Tim and I organized this kind of event for the first time and at least from my side I’m very happy with what we ended up with.</p>
+<p>While Tim and I pushed hard on making this event happen, there were many more people involved in the background to support and setup this event. Representative for our background-support I want to say thanks to William Quiviger to help out with SWAG and hotel bookings and Henrik Mitsch for requesting the event budget, setup the event page and many more helpul hints, ideas, … to shape the event to what it was in the end. Thanks!</p>
+<p>PS: You find more photos of the event <a href="https://www.flickr.com/photos/jviereck/sets/72157633351776766/" target="_blank" rel="external">here</a>.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<img src="/2013/05/07/First-De-hacking-Meetup-in-Berlin/mozilla_office_berlin.jpg" alt="Panorama picture in the Mozilla Berlin Office. Atten]]>
+    </summary>
+    
+      <category term="Mozilla, Meetup, Berlin, PDF.JS, Community Building" scheme="http://www.julianviereck.de/tags/Mozilla-Meetup-Berlin-PDF-JS-Community-Building/"/>
     
   </entry>
   
